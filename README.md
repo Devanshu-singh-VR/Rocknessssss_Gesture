@@ -1,7 +1,18 @@
 # Rocknessssss_Gesture
 
-Problem Faced:-
--> Problem Occured:-11
+This is a game controller that can play the game by facial reflex. The Components I used are Face detection, Facial landmark detection, 
+Gesture Classification with thresholding on Tensorflow Deep CNN.
+
+Here are the controls:
+
+         Arrow keys (->, <-) = Mouth (smile, teeth)
+         Button A = (Blink) Left eye 
+         Button B = (Blink) Right eye
+       
+Just for Fun I created this model. 
+
+-> Problem Faced:-
+
     ● This model used Deep CNN to recognize face organs gesture, it failed to
       detect organs in blurry and little dark vision.
 
@@ -10,6 +21,7 @@ Problem Faced:-
 
 
 -> My Solution:-
+
     ● For better vision I used Binary and Truncate Thresholding after
       converting the BGR image to a Gray colored image, the machine can
       classify these images better than previous images. This improves the
