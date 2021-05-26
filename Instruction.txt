@@ -1,0 +1,6 @@
+Left eye open -> 0
+close -> 1
+Right eye open -> 0
+close -> 1
+Mouth steady -> 0
+Mouth teeth smile -> 1
