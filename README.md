@@ -9,7 +9,7 @@ Here are the controls:
          Button A = (Blink) Left eye 
          Button B = (Blink) Right eye
        
-Just for Fun I created this model. 
+Just for Fun this model has been created. 
 
 -> Problem Faced:-
 
@@ -20,7 +20,7 @@ Just for Fun I created this model.
 
 
 
--> My Solution:-
+-> The Solution:-
 
     ● For better vision I used Binary and Truncate Thresholding after
       converting the BGR image to a Gray colored image, the machine can
