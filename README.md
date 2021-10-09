@@ -9,7 +9,7 @@ Here are the controls:
          Button A = (Blink) Left eye 
          Button B = (Blink) Right eye
        
-Just for Fun this model has been created. 
+I created this model just for fun.
 
 -> Problem Faced:-
 
