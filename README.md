@@ -30,6 +30,6 @@ I created this model just for fun.
 ![Screenshot (258)](https://user-images.githubusercontent.com/75822824/119606706-a9a74d00-be10-11eb-8808-6df26b79f6df.png)
 
 
--> Introduction to Facial landmark detection
+-> Introduction to Facial landmark detection (video)
 https://drive.google.com/file/d/1lzY8jeQY6b5OQ70xVXrOKBWS37P5_B4r/view?usp=sharing
 
